@@ -1,12 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 @font-face {
-  font-family: "capture it";
-  font-style: normal;
-  font-weight: 400;
-  src: local("capture it"),
-url("/fonts/capture it.woff2") format("woff2"),
-	  url("/fonts/capture it.woff") format("woff");
+  font-family: "Capture it";
+  src:url('Capture it.ttf');
 	  }
 .table2 
 {
@@ -24,7 +20,7 @@ p {line-height: 1.5;
   text-decoration: none;
 }
 .p
-{font-family: capture it}
+{font-family: Capture it}
  
  
 .menu ul li{
