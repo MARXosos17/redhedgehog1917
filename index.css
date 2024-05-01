@@ -5,6 +5,7 @@
   font-style: normal;
   font-weight: 400;
   src: local("capture it"),
+url("/fonts/roboto.woff2") format("woff2"),
 	  }
 .table2 
 {
