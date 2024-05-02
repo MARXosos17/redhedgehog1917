@@ -4,6 +4,11 @@
   font-family: "Capture it";
   src:url('Capture it.ttf');
 	  }
+@font-face {
+  font-family: "Arial Nova Light";
+  src:url('Arial Nova Light.ttf');
+	  }
+
 .table2 
 {
     background: #B22222;
