@@ -13,9 +13,6 @@
   src:url('Arial Nova Light.woff2');
 	  }
 
-@media handheld and (grid) and (max-width: 15em) {
-     body { font-size: 2em; }
-   }
 
 .ar
 {font-family: Arial Nova Light}
