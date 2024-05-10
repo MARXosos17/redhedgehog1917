@@ -1,6 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
- 
 
 @font-face {
   font-family: "Capture it";
@@ -9,20 +8,21 @@
 
 .p
 {font-family: Capture it}
-
+ 
 @font-face {
   font-family: "Arial Nova Light";
-  src:url('Arial Nova Light.woff2');
+  src:url('Arial Nova Light.ttf');
 	  }
-
 
 .ar
 {font-family: Arial Nova Light}
  
+
 .table2 
 {
     background: #B22222;
 }
+
 .td2 
 {
     background: #B22222;     
@@ -34,19 +34,21 @@ p {line-height: 1.5;
 .link {
   text-decoration: none;
 }
-
+ 
 .menu ul li{
-  padding: 10px; color: green;
+  padding: 10px;
 }
 .menu ul > li:hover{
-  background-color: #B22222; color: green;
+  background-color: #B22222;
 }
 .menu ul ul > li:hover{
   background-color: #B22222;
 }
+
 .menu ul li, .menu ul{
   display: inline-block; 
 }
+
 .menu ul{
   position: relative;
   margin: 0;
