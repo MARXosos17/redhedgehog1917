@@ -1,5 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
+
+@media (max-width: 600px) {
+  #sidebar {display: none;}
+
 @font-face {
   font-family: "Capture it";
   src:url('Capture it.ttf');
